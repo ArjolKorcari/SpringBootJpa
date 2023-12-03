@@ -1,0 +1,5 @@
+INSERT INTO ALIEN VALUES (101, 'Navin','Java');
+INSERT INTO ALIEN VALUES (104, 'Albi','python');
+INSERT INTO ALIEN VALUES (103, 'Arjol','Spring');
+INSERT INTO ALIEN VALUES (105, 'Anxhelo','html');
+INSERT INTO ALIEN VALUES (107, 'Nasho','macbook');
